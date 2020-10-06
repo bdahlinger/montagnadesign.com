@@ -277,7 +277,7 @@
                         <address>
                             Montagna, LLC<br/>
                             6850 Paradise Rd<br/>
-                            Las Vegas NV 89119<br/>
+                            Las Vegas, NV 89119<br/>
                             <a href="mailto:consult@montagnadesign.com">
 
                                 <font-awesome-icon :icon="['fal', 'envelope']" fixed-width></font-awesome-icon>
